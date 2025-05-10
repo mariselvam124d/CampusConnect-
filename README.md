@@ -162,8 +162,36 @@ lib/
    * Create a new Firebase project.
    * Integrate Firebase SDK into the Flutter project by following [this guide](https://firebase.flutter.dev/docs/overview).
    * Add the necessary configurations in `android/app/google-services.json` and `ios/Runner/GoogleService-Info.plist`.
+ 5.**Screenshot**
+   1) **home screen**
   ![home screen](https://github.com/user-attachments/assets/9c82d56f-6c4d-4069-b9e6-1c25a8ad6786)
+   2)**admission**
+      ![admission detail](https://github.com/user-attachments/assets/a794452f-1179-449e-8d6f-b00e343265f9)
+      ![admission form](https://github.com/user-attachments/assets/ea34aa61-0118-4529-882e-f6ea3ae31fb2)
 
+
+   3)**student dashborad**
+  ![sutdent dashboard](https://github.com/user-attachments/assets/4f7a1942-295f-4747-ab52-cb5fb7a29b2d)
+
+
+
+   4)**student od apply**
+   ![Uploading OD APPLYING.png…]()
+   ![OD bending screen](https://github.com/user-attachments/assets/4809c461-019a-4268-b1f7-9b95bbdd05d1)
+
+   5) **student login**
+       ![login dashboard ](https://github.com/user-attachments/assets/50b1ca62-828b-4eeb-af50-3fd0559c8870)
+  6) **student bio & internal mark**
+   ![student bio screen and internal mark ](https://github.com/user-attachments/assets/92809b98-9a63-4659-91f7-82e2f89d18ed)
+  7) **chairperson_approval od**
+     ![approval od in chairperson ](https://github.com/user-attachments/assets/4d14ecf0-2800-47ea-a9c0-e5b2594e94df)
+   8)**upload_mark based on stud reg no**
+     ![upload mark based on student rollnumber](https://github.com/user-attachments/assets/3940334b-2ca4-4e70-a129-9ee19566c599)
+
+  9) **staff_dashboard**
+     ![subject incharge dashboard ](https://github.com/user-attachments/assets/52b981eb-836a-4049-8696-e9d301c5dca2)
+
+   
 
 ---
 
