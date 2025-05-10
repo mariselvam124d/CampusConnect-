@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Here’s the **updated and enriched `README.md`** with additional sections for the **Student Admission Page** and **Course Detail Page** under the **Features** section:
 
 ---
@@ -163,3 +164,7 @@ Licensed under the [MIT License](LICENSE)
 
 Would you like me to help you generate UI code (like Flutter widgets) for the admission form or course detail page?
 ```
+=======
+# CampusConnect-
+ CampusConnect offers a multi-role login system for Students, Subject Staff, and Chairpersons. Students can apply for admission, view courses, submit OD forms, and check internal marks. Staff manage OD reviews, while chairpersons approve requests and enter marks. Powered by Firebase integration.
+>>>>>>> 11c818a7bb0b972908bc654b04d39c8a7580dd4a
