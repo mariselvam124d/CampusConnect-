@@ -1,0 +1,64 @@
+name: my_first_app
+description: A new Flutter project
+
+publish_to: 'none' # Remove this line if you plan to publish to pub.dev
+
+environment:
+  sdk: ">=2.17.0 <4.0.0" # Ensure your SDK version is set to a valid range for null safety
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  cloud_firestore: ^4.10.0
+  firebase_core: ^2.16.0
+  firebase_auth: ^4.17.0
+  firebase_auth_web: ^5.8.13
+  image_picker: ^1.0.4
+  google_fonts: ^6.1.0
+  path_provider: ^2.1.2
+  permission_handler: ^11.0.1
+  lottie: ^2.7.0
+
+  
+  http : ^1.0.0   # null-safe version
+  provider: ^6.0.0  # null-safe version
+  firebase_storage: ^11.7.7
+  # Add any other dependencies you need below
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+ 
+
+  assets:
+    - assets/cse.png
+    - assets/clg front.jpg
+    - assets/cse.jpg
+    - assets/mech.jpg
+    - assets/eee.jpeg
+    - assets/it.jpeg
+    - assets/bio.jpg
+    - assets/communication.jpeg
+    - assets/ece.jpeg
+    - assets/it.jpeg
+    - assets/mech.jpg
+    - assets/mechtronic.jpeg
+    - assets/net.jpeg
+    - assets/civil.jpeg
+    - assets/awards.jpg
+    - assets/login.jpg
+    - assets/placeholeder.jpg
+    - assets/animations/loading.gif
+    -assets/ai.jpeg
+
+
+
+
+
+    
+    
+ 
