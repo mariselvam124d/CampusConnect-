@@ -2,6 +2,7 @@ Sure! Here's an enriched version with additional content for **CampusConnect - C
 
 ---
 
+
 **🎓 CampusConnect - College Management App**
 
 CampusConnect is a modern, cross-platform **Flutter** application integrated with **Firebase** backend services to streamline **OD (On-Duty) management**, internal mark handling, admission processes, and overall academic administration for educational institutions.
@@ -161,6 +162,8 @@ lib/
    * Create a new Firebase project.
    * Integrate Firebase SDK into the Flutter project by following [this guide](https://firebase.flutter.dev/docs/overview).
    * Add the necessary configurations in `android/app/google-services.json` and `ios/Runner/GoogleService-Info.plist`.
+  ![home screen](https://github.com/user-attachments/assets/9c82d56f-6c4d-4069-b9e6-1c25a8ad6786)
+
 
 ---
 
