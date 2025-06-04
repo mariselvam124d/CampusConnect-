@@ -1,3 +1,4 @@
+ ![home screen](https://github.com/user-attachments/assets/9c82d56f-6c4d-4069-b9e6-1c25a8ad6786)
 ![frame_firefox_mac_dark (1)](https://user-images.githubusercontent.com/aasets/login dashboard.png)
 
 Sure! Here's an enriched version with additional content for **CampusConnect - College Management App**, including sections on **Future Enhancements** and **How to Run the Project**:
